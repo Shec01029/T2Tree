@@ -7,7 +7,8 @@ Installation:
 
 ./build.sh
 
-How to run: ./T2Tree_Project [options]
+How to run: cd ./build/bin/
+./T2Tree_Project [options]
 Usage:
 ./T2Tree_Project [-r ruleset][-p trace][-b binth][-bit maxbit][-t maxTreenum][-l maxTreeDepth]
 
@@ -28,6 +29,7 @@ or
 If you have any questions, feel free to contact with me.
 
 2025.10.01
+
 
 
 
