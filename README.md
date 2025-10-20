@@ -4,8 +4,7 @@ Requirement:
 g++ at least version 7.0 (C++17 required)
 
 Installation:
-make
-or
+
 ./build.sh
 
 How to run: ./T2Tree_Project [options]
@@ -29,5 +28,6 @@ or
 If you have any questions, feel free to contact with me.
 
 2025.10.01
+
 
 
