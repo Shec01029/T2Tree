@@ -24,8 +24,9 @@ Options:
 Try now:
 ./T2Tree_Project
 or
-./T2Tree_Project -r acl_10k -p acl_10k_trace -b 8 -bit 4 -t 32 -l 10
+./T2Tree_Project -r acl1_128k -p acl1_128k_trace -b 8 -bit 4 -t 32 -l 10
 
 If you have any questions, feel free to contact with me.
 
 2025.10.01
+
