@@ -1,4 +1,4 @@
-# T2Tree, Version 1.0
+# T2Tree: A Hardware-Efficient Two-Phase Search Framework for High-Speed Packet Classification, Version 1.0
 Tested on Ubuntu 22.04.5 LTS
 Requirement:
 g++ at least version 7.0 (C++17 required)
@@ -29,4 +29,5 @@ or
 If you have any questions, feel free to contact with me.
 
 2025.10.01
+
 
